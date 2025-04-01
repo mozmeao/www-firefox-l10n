@@ -1,0 +1,11 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/this-site/
+
+about-this-site-title = Дар бораи ин сомона
+about-this-site-like-many = Ин сомона ба мисли бисёре аз маҳсулоти мо, низ дар манбаи кушод асос меёбад:
+about-this-site-view-source = Дидани рамзи манбаъ дар «{ -brand-name-github }»
+about-this-site-report-a-bug = Фиристодани гузориш дар бораи хато
