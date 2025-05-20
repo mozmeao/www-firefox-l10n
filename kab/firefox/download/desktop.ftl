@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -17,7 +17,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-download-get-the-browser = Awi iminig ara yemmestnen ayen yesεan azal
 firefox-desktop-download-download-options = Sader iɣewwaṛen d tutlayin-nniḍen
 firefox-desktop-download-browser-support = Asefrek { -brand-name-firefox-browser }
-# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Xdem ayen tebɣiḍ srid. <br> { -brand-name-firefox-browser } <strong>ur d-yettwali ara</strong>.
 firefox-desktop-download-how-firefox-compares = Amek yesserwas { -brand-name-firefox } d yiminigen-nniḍen
 firefox-desktop-download-how-we-compare = Amek i nesserwas ɣer yiminigen-nniḍen
@@ -113,7 +113,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ꞌa <a
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Asteqsi? <a { $attrs }>{ -brand-name-mozilla } tallalt</a> tesseḥbaber fell-ak·am.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Qrib ad tawḍeḍ!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

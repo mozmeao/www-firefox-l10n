@@ -3,10 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/developer/
-
-
-## Strings in this file also cover: https://www-dev.allizom.org/firefox/83.0a2/firstrun/ and https://www-dev.allizom.org/firefox/83.0a2/whatsnew/
+### URL: https://www-dev.springfield.moz.works/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = { -brand-name-firefox-developer-edition } è il browser ultra veloce con funzioni all’avanguardia per lo sviluppo web, supporto alle ultime tecnologie come le griglie CSS ed equipaggiato di un debugger avanzato compatibile con i più diffusi framework.
@@ -62,31 +59,12 @@ firefox-developer-master-innovative-features = Funzioni innovative
 firefox-developer-want-to-be-on-the-cutting-edge = Vuoi essere all’avanguardia?
 firefox-developer-firefox-nightly-receives = { -brand-name-firefox-nightly } è aggiornato quotidianamente e ti permette di provare in anteprima le nuove funzioni, mesi prima della disponibilità al grande pubblico.
 firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } è l’unico browser a integrare strumenti specificatamente realizzati per creare e modificare l’aspetto delle griglie CSS. Visualizza la griglia, accedi ai nomi di aree ad essa associate, visualizza un’anteprima e molto altro.
-firefox-developer-convenient-features = Pratiche funzioni
-firefox-developer-shapes-editor = Editor forme
-firefox-developer-firefox-devtools-has-a-brand-new-v2 = Grazie al nuovo editor per i tracciati delle forme di { -brand-name-firefox-devtools } non c’è più bisogno di tirare a indovinare quando si perfezionano alcuni dettagli, come gestire shape-outside o clip-path su una forma. Ora queste operazioni sono facili e intuitive con il nuovo editor visuale.
-firefox-developer-firefox-devtools-has-a-brand-new = Grazie al nuovo editor per i tracciati delle forme di { -brand-name-firefox-devtools } non c’è più bisogno di tirare a indovinare quando si perfezionano alcuni dettagli, come applicare ombre esterne o ritagliare il tracciato di una forma. Ora queste operazioni sono facili e intuitive con il nuovo editor visuale.
 firefox-developer-faster-innovation = Informazioni più accessibili
 firefox-developer-fonts-panel = Pannello caratteri
 firefox-developer-the-new-fonts-panel = Il nuovo pannello caratteri di { -brand-name-firefox-devtools } fornisce agli sviluppatori un accesso rapido a tutte le informazioni necessarie sui caratteri utilizzati in un elemento. Include anche preziosi dati come provenienza, peso, stile ecc.
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } è impostato per inviare automaticamente un feedback a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Scarica la versione di { -brand-name-firefox } dedicata agli sviluppatori
-firefox-developer-firefox-has-been-rebuilt = Abbiamo riprogettato { -brand-name-firefox } dalle fondamenta per farlo diventare il browser più veloce, più elegante e potente di sempre.
-firefox-developer-welcome-to-firefox-developer-edition = Benvenuto in { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = Il browser realizzato per gli sviluppatori
 firefox-developer-all-the-latest-v2 = Tutti gli strumenti di sviluppo più recenti in versione beta, oltre a funzionalità come la console multi linea e il WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Percorso e profilo separati</strong> così da poter essere eseguito facilmente in parallelo alla versione ufficiale o { -brand-name-beta } di { -brand-name-firefox }.
 firefox-developer-preferences-tailored = Impostazioni <strong>a misura di sviluppatori</strong>: browser e debugger remoto sono attivati per impostazione predefinita, così come il tema scuro e il pulsante degli strumenti di sviluppo web.
-firefox-developer-congrats-you-now-have-latest-v2 = Ora stai utilizzando la versione più recente di { -brand-name-firefox-developer-edition }.
-# Variables:
-#   $attrs (string) - link to the most recent Firefox Developer Edition release notes
-firefox-developer-view-the-release = Consulta le <a { $attrs }>note di versione</a> (solo in inglese) per scoprire le novità.
-firefox-developer-developer-tools-user = Documentazione per gli strumenti di sviluppo
-firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
-firefox-developer-resources-for-developers = Risorse per sviluppatori, da sviluppatori
-firefox-developer-mdn-references = Riferimenti { -brand-name-mdn }
-firefox-developer-mdn-is-a = { -brand-name-mdn } è un progetto collaborativo open source che documenta le tecnologie della piattaforma web, inclusi CSS, HTML, JavaScript e API web.
-firefox-developer-mdn-curriculum = Curriculum { -brand-name-mdn }
-firefox-developer-a-structured-guide = Una guida strutturata alle competenze e alle pratiche essenziali per diventare uno sviluppatore front-end di successo, insieme a risorse di apprendimento consigliate.
-firefox-developer-mdn-plus = { -brand-name-mdn-plus }
-firefox-developer-support-mdn-and = Sostieni { -brand-name-mdn } e personalizzalo con raccolte, notifiche e aree per provare il tuo codice.

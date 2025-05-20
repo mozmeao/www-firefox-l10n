@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -22,7 +22,7 @@ firefox-desktop-download-compare-safari = { -brand-name-safari }
 firefox-desktop-download-yes = כן
 firefox-desktop-download-no = לא
 firefox-desktop-download-blocks-third-party = חסימת עוגיות מעקב צד־שלישי
-firefox-desktop-download-autoplay-blocking = חסימת הפעלה אוטומטית
+firefox-desktop-download-autoplay-blocking = חסימת ניגון אוטומטי
 firefox-desktop-download-blocks-social-trackers = חסימת רכיבי מעקב של רשתות חברתיות
 # OS is short for "Operating System"
 firefox-desktop-download-os-availability = זמינות למערכות הפעלה
@@ -47,7 +47,7 @@ firefox-desktop-download-reader-mode = מצב קריאה
 firefox-desktop-download-spell-check = בדיקת איות
 firefox-desktop-download-pinned-tabs = לשוניות מוצמדות
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = חסימת הפעלה אוטומטית של וידאו ושמע
+firefox-desktop-download-block-autoplay-of = חסימת ניגון אוטומטי של וידאו ושמע
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = תמונה בתוך תמונה
 firefox-desktop-download-share-links = שיתוף קישורים
@@ -88,7 +88,7 @@ firefox-desktop-download-get-firefox-ios = קבלת ה{ -brand-name-firefox-brow
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = שאלות? <a { $attrs }>בתמיכה של { -brand-name-mozilla }</a> יכולים לעזור.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = כמעט סיימנו!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

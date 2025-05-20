@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,12 +21,21 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = { -brand-name-firefox } yang lebih baru juga sudah tersedia. <a { $update_url }>Mutakhirkan ke versi terbaru</a>
 
 firefox-desktop-download-get-the-browser = Dapatkan peramban yang melindungi apa yang penting
-# shady is slang which suggests something is untrustworthy
+
+firefox-desktop-download-fast-reliable-private = Cepat, andal, dan pribadi — agar pikiran lebih tenang saat daring.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Tanpa adanya kebijakan privasi yang menjebak ataupun pintu belakang bagi pengiklan. Hanya peramban secepat kilat yang tidak menjual Anda.
+
 firefox-desktop-download-download-options = Opsi unduhan dan bahasa lain
 firefox-desktop-download-browser-support = Dukungan { -brand-name-firefox-browser }
+
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } siap <strong>membantu</strong> Anda.
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Lakukan apa yang Anda lakukan saat daring.<br> { -brand-name-firefox-browser } <strong>tidak akan</strong> memantaunya.
+
 firefox-desktop-download-how-firefox-compares = Bagaimana { -brand-name-firefox } dibandingkan dengan peramban lain
 firefox-desktop-download-get-all-the-speed = Dapatkan semua kecepatan dan alat tanpa adanya pelanggaran privasi. { -brand-name-firefox-browser } mengumpulkan sangat sedikit data mengenai Anda, kami bahkan tidak memerlukan surel Anda untuk mengunduh. Itu karena tidak seperti peramban lain, kami tidak memiliki kepentingan finansial untuk menguntit Anda di web.
 firefox-desktop-download-how-we-compare = Bagaimana kami dibandingkan dengan peramban lain
@@ -134,6 +143,11 @@ firefox-desktop-download-from-security-to = Dari keamanan hingga berita dan perm
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } dibuat oleh <a { $attrs }>{ -brand-name-mozilla }</a> sebagai alternatif tercepat dan lebih pribadi dibanding peramban seperti { -brand-name-ie }, dan sekarang { -brand-name-chrome }. Hari ini, misi yang menggerakkan kami sebagai perusahaan dan komunitas sukarelawan ialah menempatkan privasi Anda di atas segalanya.
 
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — Itulah yang selalu kami lakukan. Pelajari lebih lanjut tentang praktik data kami di <a { $attrs }>Pemberitahuan Privasi</a> kami.
+
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Seiring bertumbuh dan berkembangnya internet, { -brand-name-firefox } terus berfokus pada hak Anda atas privasi — kami menyebutnya sebagai <a { $attrs }>Janji Data Pribadi</a>: Ambil lebih sedikit. Amankan. Tanpa rahasia. Data Anda, aktivitas web Anda, kehidupan daring Anda dilindungi dengan { -brand-name-firefox }.
 
@@ -155,7 +169,7 @@ firefox-desktop-download-questions = Ada pertanyaan? <a { $attrs }>Dukungan { -b
 
 firefox-desktop-download-watch-for-hackers-with-v3 = Waspadai peretas dengan { -brand-name-mozilla-monitor }, lindungi alamat email Anda dengan { -brand-name-firefox-relay }, dan masih banyak lagi.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Hampir selesai!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

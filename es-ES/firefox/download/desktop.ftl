@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Está disponible una nueva versión de { -brand-name-firefox }. <a { $update_url }>Actualizar a la última versión</a>
 firefox-desktop-download-get-the-browser = Descarga el navegador que protege lo que es importante
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Rápido, fiable y privado: para tu tranquilidad en línea.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = No hay políticas de privacidad sospechosas o puertas traseras para los anunciantes. Solo un navegador súper rápido que no te vende.
 firefox-desktop-download-download-options = Opciones de descarga y otros idiomas
 firefox-desktop-download-browser-support = Ayuda de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Hagas lo que hagas en línea.<br>{ -brand-name-firefox-browser } te <strong>protege</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Hagas lo que hagas en línea.<br>{ -brand-name-firefox-browser } <strong>no</strong> te está vigilando.
 firefox-desktop-download-how-firefox-compares = Cómo es { -brand-name-firefox } comparado con otros navegadores
 firefox-desktop-download-get-all-the-speed = Consigue toda la velocidad y herramientas sin invasiones a tu privacidad. { -brand-name-firefox-browser } recopila tan pocos datos sobre ti que ni siquiera te solicitamos tu dirección de correo electrónico para descargarlo. Esto se debe a que, a diferencia de otros navegadores, no tenemos ningún interés económico para seguirte por la Web.
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = Desde la seguridad hasta las noticia
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } ha sido creado por <a { $attrs }>{ -brand-name-mozilla }</a> como una alternativa más rápida y privada a navegadores como { -brand-name-ie }, y ahora { -brand-name-chrome }. Hoy en día, nuestra comunidad de voluntarios y empresas impulsadas por la misión continúan poniendo tu privacidad por encima de todo.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = A medida que Internet crece y cambia, { -brand-name-firefox } sigue centrándose en tu derecho a la privacidad, que siempre ha sido lo nuestro. Obtén más información sobre nuestras prácticas respecto a los datos en nuestro <a { $attrs }>Aviso de privacidad</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = A medida que Internet crece y cambia, { -brand-name-firefox } continúa enfocándose en tu derecho a la privacidad; lo llamamos la <a { $attrs }>Promesa de datos personales</a>: Recopila menos. Lo mantiene seguro. Sin secretos. Tus datos, tu actividad web, tu vida en línea están protegidos con { -brand-name-firefox }.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } automá
 firefox-desktop-download-questions = ¿Preguntas? La <a { $attrs }>ayuda de { -brand-name-mozilla }</a> está a tu disposición.
 firefox-desktop-download-watch-for-hackers-with-v3 = Vigila a los hackers con { -brand-name-mozilla-monitor }, protege tu dirección de correo con { -brand-name-firefox-relay } y más.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ¡Casi has terminado!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

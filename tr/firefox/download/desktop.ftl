@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Daha yeni bir { -brand-name-firefox } sürümü mevcut. <a { $update_url }>Son sürüme güncelleme yapın</a>
 firefox-desktop-download-get-the-browser = Önemli olanı koruyan tarayıcıyı indirin
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Hızlı, güvenilir ve gizli: İnternette içiniz rahat olsun.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Anlaşılmaz gizlilik ilkelerimiz yok. Reklamcılara açık kapı bırakmak yok. Sizi satmayan, ışık hızında bir tarayıcı.
 firefox-desktop-download-download-options = İndirme seçenekleri ve diğer diller
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } desteği
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>koruyor</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = İnternette ne yaparsanız yapın.<br> { -brand-name-firefox-browser } sizi <strong>izlemiyor</strong>.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox }’u diğer tarayıcılarla karşılaştırın
 firefox-desktop-download-get-all-the-speed = Aradığınız hızı ve araçları, gizliliğinizi ihlal etmeden sunuyoruz. { -brand-name-firefox-browser } hakkınızda o kadar az veri topluyor ki tarayıcımızı indirmek için e-posta adresinizi bile sormuyoruz. Çünkü diğer tarayıcıların aksine, internette yaptıklarınızı izlemek bize para kazandırmıyor.
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = Güvenlikten haberlere ve oyunlara, 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = <a { $attrs }>{ -brand-name-mozilla }</a>, { -brand-name-firefox }’u { -brand-name-ie } ve { -brand-name-chrome } gibi tarayıcılara daha hızlı, daha gizlilik yanlısı bir alternatif olarak yarattı. Misyonumuza bağlılığını sürdüren şirketimiz ve gönüllülerimiz gizliliğinizi her şeyin üstünde tutmaya devam ediyor.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza odaklanmayı sürdürüyor, hep yaptığımız gibi. <a { $attrs }>Gizlilik Bildirimimizden</a> veri uygulamalarımız hakkında daha fazla bilgi alabilirsiniz.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = İnternet büyüyüp geliştikçe { -brand-name-firefox } gizlilik haklarınıza daha fazla odaklanıyor. Buna <a { $attrs }>Kişisel Veri Sözü</a> diyoruz: Daha az topla. Güvenle sakla. Sır tutma. Verileriniz, internette yaptıklarınız ve çevrimiçi yaşamınız { -brand-name-firefox } ile güvende.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox }, web et
 firefox-desktop-download-questions = Sorularınız mı var? <a { $attrs }>{ -brand-name-mozilla } Destek</a>’e danışabilirsiniz.
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } ile hacker’lardan kaçınabilir, { -brand-name-firefox-relay } ile e-posta adresinizi koruyabilir ve çok daha fazlasını yapabilirsiniz.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Az kaldı!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

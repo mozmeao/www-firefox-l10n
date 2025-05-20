@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Na voljo je še novejši { -brand-name-firefox }. <a { $update_url }>Posodobite na najnovejšo različico</a>
 firefox-desktop-download-get-the-browser = Izberite brskalnik, ki ščiti pomembne stvari
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Hiter, zanesljiv in zaseben – za brezskrbno spletno življenje.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Brez dvoumnih politik zasebnosti ali oglaševalcev za vašim hrbtom. Le bliskovito hiter brskalnik, ki ne kuje dobička na vaš račun.
 firefox-desktop-download-download-options = Možnosti prenosa in drugi jeziki
 firefox-desktop-download-browser-support = Podpora za { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vam <strong>krije hrbet</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Počnite na spletu, kar želite.<br> { -brand-name-firefox-browser } vas <strong>ne</strong> opazuje.
 firefox-desktop-download-how-firefox-compares = Kako se { -brand-name-firefox } primerja z drugimi brskalniki
 firefox-desktop-download-get-all-the-speed = Opremite se za hitrost in za delo, ne da bi žrtvovali svojo zasebnost. { -brand-name-firefox-browser } zbira tako malo vaših podatkov, da ne zahteva niti vašega e-poštnega naslova za prenos. To si lahko privoščimo, ker za razliko od ostalih brskalnikov ne ustvarjamo dobička s sledenjem vaši spletni dejavnosti.
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = Od varnosti do novic in iger – za 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } je ustvarila <a { $attrs }>{ -brand-name-mozilla }</a> kot hitrejšo in zasebnejšo alternativo brskalnikom, kot je bil { -brand-name-ie } in kot je { -brand-name-chrome }. Naše podjetje s poslanstvom in skupnost prostovoljcev vse do danes postavljata vašo zasebnost nad vse ostalo.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – to nam je bila vedno prioriteta. Preberite več o tem, kako ravnamo s podatki, v našem <a { $attrs }>obvestilu o zasebnosti</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Medtem ko internet raste in se spreminja, se { -brand-name-firefox } še naprej osredotoča na vašo pravico do zasebnosti – mi to imenujemo <a { $attrs }>obljuba o osebnih podatkih</a>: Vzemi manj. Obdrži jih varne. Brez skrivnosti. Vaše podatke, vašo dejavnost in življenje na spletu ščiti { -brand-name-firefox }.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } samodej
 firefox-desktop-download-questions = Imate vprašanja? Obiščite <a { $attrs }>Podporo { -brand-name-mozilla }</a>.
 firefox-desktop-download-watch-for-hackers-with-v3 = Pazite na hekerje z { -brand-name-mozilla-monitor }jem, zaščitite svoj e-poštni naslov s { -brand-name-firefox-relay } in drugo.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Še malo!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

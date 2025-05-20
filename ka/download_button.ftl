@@ -57,6 +57,10 @@ download-button-linux-64-v2 = ჩამოტვირთეთ Linux 64-ბი�
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
-download-button-using-debian = Debian-ს, Ubuntu-ს ან რომელიმე Debian-ზე დაფუძნებულ დისტრიბუციას იყენებთ?<br> შეგიძლიათ ჩვენი <a { $attrs }>APT-საცავის მოწყობა</a>.
+download-button-using-debian = Debian, Ubuntu ან Debian-ზე დაფუძნებული სხვა სისტემა გიყენიათ?<br> შეგიძლიათ მომართოთ ჩვენი <a { $attrs }>APT-საცავი</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = გადმოწერეთ Microsoft-იდან
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = გაუზიარეთ { -brand-name-firefox }-ს მოკავშირე სამსახურებს გავრცელების საკითხებში, როგორ აღმოაჩინეთ { -brand-name-mozilla } და იყენებთ თუ არა. ეს მონაცემები არასდროს გაიყიდება და არ იქნება გამოყენებული რეკლამების საჩვენებლად. <a { $attrs }>იხილეთ ვრცლად, თუ როგორ ვეპყრობით მონაცემებს</a>.

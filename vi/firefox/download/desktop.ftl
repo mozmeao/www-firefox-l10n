@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Một phiên bản mới của { -brand-name-firefox } đã có sẵn. <a { $update_url }>Cập nhật lên phiên bản mới nhất</a>
 firefox-desktop-download-get-the-browser = Tải trình duyệt bảo vệ những gì quan trọng
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Nhanh chóng, đáng tin cậy và riêng tư — để bạn yên tâm khi trực tuyến.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Không có chính sách bảo mật mờ ám hoặc cửa sau cho các nhà quảng cáo. Chỉ cần một trình duyệt nhanh như chớp mà không bán bất kỳ thứ gì của bạn.
 firefox-desktop-download-download-options = Tùy chọn tải xuống và các ngôn ngữ khác
 firefox-desktop-download-browser-support = Hỗ trợ { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } sẽ <strong>bảo vệ</strong> bạn.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Làm những gì bạn làm trực tuyến.<br> { -brand-name-firefox-browser } <strong>sẽ không</strong> theo dõi.
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } so với các trình duyệt khác như thế nào
 firefox-desktop-download-get-all-the-speed = Nhận tất cả các tốc độ và công cụ mà không có sự xâm phạm quyền riêng tư. { -brand-name-firefox-browser } thu thập rất ít dữ liệu về bạn, chúng tôi thậm chí không yêu cầu địa chỉ email của bạn để tải xuống. Điều đó vì không giống như các trình duyệt khác, chúng tôi không có cổ phần tài chính để theo dõi bạn trên web.
@@ -49,7 +52,7 @@ firefox-desktop-download-see-your-report = Xem báo cáo bảo vệ của bạn
 firefox-desktop-download-for-everyone = { -brand-name-firefox } dành cho tất cả mọi người
 firefox-desktop-download-available-in-over = Có sẵn trong hơn 90 ngôn ngữ và tương thích với { -brand-name-windows }, { -brand-name-mac-short } và { -brand-name-linux }, { -brand-name-firefox } hoạt động bất kể những gì bạn đang sử dụng hoặc bạn đang ở đâu. Đảm bảo hệ điều hành của bạn được cập nhật để có trải nghiệm tốt nhất.
 firefox-desktop-download-review-system-req = Xem các yêu cầu hệ thống
-firefox-desktop-download-all-your-devices = Đặt { -brand-name-firefox } trên tất cả các thiết bị của bạn
+firefox-desktop-download-all-your-devices = Sử dụng { -brand-name-firefox } trên tất cả các thiết bị của bạn
 firefox-desktop-download-take-your-privacy = Mang theo sự riêng tư của bạn ở khắp mọi nơi. { -brand-name-firefox-browsers } dành cho { -brand-name-ios } và { -brand-name-android } có cùng cài đặt quyền riêng tư để chặn trình theo dõi của bạn trên web, bất kể bạn ở đâu.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Làm <strong>tất cả</strong> với { -brand-name-firefox }
@@ -76,8 +79,8 @@ firefox-desktop-download-curated-content-on = Hiển thị nội dung nổi bậ
 firefox-desktop-download-share-links = Chia sẻ liên kết
 firefox-desktop-download-protect-your-privacy = Bảo vệ sự riêng tư của bạn
 firefox-desktop-download-third-party-cookie = Chặn cookie của bên thứ ba
-firefox-desktop-download-fingerprinter-blocking = Chặn vân tay
-firefox-desktop-download-cryptominer-blocking = Chặn tiền điện tử
+firefox-desktop-download-fingerprinter-blocking = Chặn trình lấy dấu vết
+firefox-desktop-download-cryptominer-blocking = Chặn trình đào tiền điện tử
 firefox-desktop-download-private-browsing-mode = Chế độ duyệt web riêng tư
 firefox-desktop-download-individual-protections-report = Báo cáo bảo vệ cá nhân
 firefox-desktop-download-secure-your-personal = Bảo mật thông tin cá nhân của bạn
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = Từ bảo mật đến tin tức đ
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } được tạo bởi <a { $attrs }>{ -brand-name-mozilla }</a> dưới dạng thay thế nhanh hơn, riêng tư hơn cho các trình duyệt như { -brand-name-ie }, và bây giờ { -brand-name-chrome }. Hôm nay, công ty và cộng đồng tình nguyện điều hành nhiệm vụ của chúng tôi tiếp tục đặt quyền riêng tư của bạn lên trên tất cả.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn — đó luôn là điều mà chúng tôi quan tâm. Tìm hiểu thêm về các hoạt động dữ liệu của chúng tôi trong <a { $attrs }>thông báo về quyền riêng tư</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Khi internet phát triển và thay đổi, { -brand-name-firefox } tiếp tục tập trung vào quyền riêng tư của bạn  — chúng tôi gọi đó là <a { $attrs }>Lời hứa dữ liệu cá nhân</a>: Lấy ít hơn. Giữ nó an toàn. Không có bí mật. Dữ liệu của bạn, hoạt động web của bạn, cuộc sống trực tuyến của bạn được bảo vệ với { -brand-name-firefox }.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } tự đ
 firefox-desktop-download-questions = Có câu hỏi? <a { $attrs }>Hỗ trợ { -brand-name-mozilla }</a> sẽ giúp ích cho bạn.
 firefox-desktop-download-watch-for-hackers-with-v3 = Theo dõi tin tặc với { -brand-name-mozilla-monitor }, bảo vệ địa chỉ email của bạn với { -brand-name-firefox-relay }, và hơn thế nữa.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Sắp xong rồi!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

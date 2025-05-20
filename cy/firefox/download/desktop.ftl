@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Mae { -brand-name-firefox } mwy diweddar byth ar gael. <a { $update_url }>Diweddaru i'r fersiwn diweddaraf</a>
 firefox-desktop-download-get-the-browser = Cael y porwr sy'n diogelu'r hyn sy'n bwysig
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Cyflym, dibynadwy a phreifat - er tawelwch meddwl ar-lein.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Dim polisïau preifatrwydd amheus na drysau cefn i hysbysebwyr. Porwr cyflym iawn sydd ddim yn eich trin fel rhywbeth i'w werthu.
 firefox-desktop-download-download-options = Dewisiadau llwytho i lawr ac ieithoedd eraill
 firefox-desktop-download-browser-support = Cymorth { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Gwnewch beth rydych yn ei wneud ar-lein.<br> Mae { -brand-name-firefox-browser } yn eich <strong>diogelu</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Gwnewch beth bynnag hoffwch chi ar-lein. D'yw <br> { -brand-name-firefox-browser } <strong>ddim</strong> yn eich gwylio.
 firefox-desktop-download-how-firefox-compares = Sut mae { -brand-name-firefox } yn cymharu â phorwyr eraill
 firefox-desktop-download-get-all-the-speed = Cymrwch fantais o'r holl gyflymder ac offer sydd ar gael heb unrhyw dorri ar eich preifatrwydd. Mae { -brand-name-firefox-browser } yn casglu prin dim data amdanoch chi, dydyn ni ddim hyd yn oed yn gofyn am eich cyfeiriad e-bost i'w lwytho i lawr. Mae hynny oherwydd yn wahanol i borwyr eraill, nid oes gennym unrhyw reswm ariannol i'ch dilyn o amgylch y we.
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = O ddiogelwch i newyddion i gemau, ma
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = Crëwyd { -brand-name-firefox } gan <a { $attrs }>{ -brand-name-mozilla }</a> fel dewis arall cyflymach, mwy preifat i borwyr fel { -brand-name-ie }, a nawr { -brand-name-chrome }. Heddiw, mae ein cwmni sy'n cael ei yrru gan genhadaeth a'n cymuned wirfoddol yn parhau i roi eich preifatrwydd o flaen pob dim.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - dyna fu ein peth ni erioed. Darllenwch ragor am ein harferion data yn ein <a { $attrs }>Hysbysiad Preifatrwydd</a>.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Wrth i'r rhyngrwyd dyfu a newid, mae { -brand-name-firefox } yn parhau i ganolbwyntio ar eich hawl i breifatrwydd - rydyn ni'n ei alw'n <a { $attrs }>Addewid Data Personol</a>: Cymerwch lai. Cadwch e'n ddiogel. Dim cyfrinachau. Mae eich data, eich gweithgaredd gwe, eich bywyd ar-lein wedi'i warchod gyda { -brand-name-firefox }.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = Mae { -brand-name-firefox } yn 
 firefox-desktop-download-questions = Cwestiynau? Mae gan <a { $attrs }>Cymorth { -brand-name-mozilla }</a> yr atebion.
 firefox-desktop-download-watch-for-hackers-with-v3 = Gwyliwch am hacwyr gyda { -brand-name-mozilla-monitor }, gwarchodwch eich cyfeiriad e-bost gyda { -brand-name-firefox-relay }, a mwy.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Bron a gorffen!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

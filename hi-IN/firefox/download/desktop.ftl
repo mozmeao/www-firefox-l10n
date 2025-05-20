@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -21,12 +21,21 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = एक और नवीनतम { -brand-name-firefox } उपलब्ध है। <a { $update_url }>नवीनतम संस्करण में अपडेट करें</a>
 
 firefox-desktop-download-get-the-browser = ज़रूरी चीज़ों की सुरक्षा करने वाला ब्राउज़र इस्तेमाल करें
-# shady is slang which suggests something is untrustworthy
+
+firefox-desktop-download-fast-reliable-private = तेज़, भरोसेमंद और गोपनीय — ऑनलाइन मानसिक सुकून के साथ।
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = कोई भी संदेहजनक निजता नीति नहीं है या विज्ञापनदाताओं के लिए कोई चोर-दरवाजा नहीं है। यह बस एक तेज़ ब्राउज़र है, जो आपका डेटा किसी को बेचता नहीं है।
+
 firefox-desktop-download-download-options = डाउनलोड के विकल्प और अन्य भाषाएँ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } सपोर्ट
+
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = ऑनलाइन रहकर अपने सभी काम करें।<br> { -brand-name-firefox-browser } आपकी <strong>सहायता के लिए मौजूद है</strong>।
+
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = ऑनलाइन रहकर अपने सभी काम करें।<br> { -brand-name-firefox-browser } <strong>नहीं</strong> देख रहा है।
+
 firefox-desktop-download-how-firefox-compares = { -brand-name-firefox } अन्य ब्राउज़र की तुलना में कैसा है
 firefox-desktop-download-get-all-the-speed = तेज़ स्पीड पाएं, ज़रूरी टूल्स पाएं - आपकी निजता में किसी भी दखल के बगैर। { -brand-name-firefox-browser } आपके बारे में इतना कम डेटा इकट्ठा करता है कि डाउनलोड करने के लिए हम आपका ईमेल एड्रेस तक नहीं माँगते। ऐसा इसलिए है क्योंकि अन्य ब्राउज़र के उलट, इंटरनेट पर आपकी किसी भी गतिविधि पर नज़र रखने से हमें कोई भी वित्तीय लाभ होने की गुंजाइश तक नहीं है।
 firefox-desktop-download-how-we-compare = अन्य ब्राउज़र की तुलना में हम कहाँ हैं
@@ -134,6 +143,11 @@ firefox-desktop-download-from-security-to = सुरक्षा हो, सम
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } को <a { $attrs }>{ -brand-name-mozilla }</a> द्वारा बनाया गया था { -brand-name-ie } और अब { -brand-name-chrome } जैसे ब्राउज़र के मुकाबले एक ज़्यादा तेज़ और अधिक निजता वाले विकल्प के तौर पर। आज भी, मिशन-केंद्रित हमारी कंपनी और वॉलंटियर कम्युनिटी द्वारा आपकी निजता को अन्य सभी चीज़ों से ज़्याद प्राथमिकता देना जारी है।
 
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = जैसे-जैसे इंटरनेट का विस्तार और उसमें बदलाव हो रहे हैं, { -brand-name-firefox } निजता के आपके अधिकार पर केंद्रित रहने की अपनी नीति जारी रखे हुए है — यह हमेशा से हमारा प्रमुख मुद्दा रहा है। हमारे डेटा प्रैक्टिसेज़ के बारे में अधिक जानकारी के लिए हमारे <a { $attrs }>निजता नोटिस</a> को देखें।
+
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = जैसे-जैसे इंटरनेट का विस्तार और उसमें बदलाव हो रहे हैं, { -brand-name-firefox } निजता के आपके अधिकार पर केंद्रित रहने की अपनी नीति जारी रखे हुए है — हम इसे <a { $attrs }>निजी डेटा संबंधी अपना वचन</a> कहते हैं: कम से कम डेटा लेना। इसे सुरक्षित रखना। कोई सीक्रेट नहीं। आपका डेटा, आपकी इंटरनेट गतिविधि, आपका ऑनलाइन जीवन { -brand-name-firefox } के जरिए सुरक्षित रखा जाता है।
 
@@ -155,7 +169,7 @@ firefox-desktop-download-questions = कोई सवाल है? <a { $attrs 
 
 firefox-desktop-download-watch-for-hackers-with-v3 = { -brand-name-mozilla-monitor } से हैकर्स पर नज़र रखें, { -brand-name-firefox-relay } से अपने ईमेल एड्रेस को सुरक्षित रखें, साथ ही और भी बहुत कुछ।
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = बस होने ही वाला है!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

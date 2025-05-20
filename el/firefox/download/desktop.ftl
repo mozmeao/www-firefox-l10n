@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Διατίθεται ένα ακόμα νεότερο { -brand-name-firefox }. <a { $update_url }>Κάντε ενημέρωση στην πιο πρόσφατη έκδοση</a>
 firefox-desktop-download-get-the-browser = Το πρόγραμμα περιήγησης που φυλάσσει ό,τι είναι σημαντικό
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Γρήγορο, αξιόπιστο και ιδιωτικό, για ξέγνοιαστη περιήγηση στο διαδίκτυο.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Καμία κρυφή πολιτική απορρήτου ή πίσω πόρτες για διαφημιστές. Απλά ένα αξιόπιστο και γρήγορο πρόγραμμα περιήγησης.
 firefox-desktop-download-download-options = Επιλογές λήψεων και άλλες γλώσσες
 firefox-desktop-download-browser-support = Υποστήριξη { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } σάς <strong>προστατεύει</strong>.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Κάντε ό,τι θέλετε στο διαδίκτυο.<br>Το { -brand-name-firefox-browser } <strong>δεν</strong> σας παρακολουθεί.
 firefox-desktop-download-how-firefox-compares = Σύγκριση του { -brand-name-firefox } με αντίστοιχα προγράμματα
 firefox-desktop-download-get-all-the-speed = Αποκτήστε την ταχύτητα και τα εργαλεία χωρίς παραβίαση του απορρήτου. Το { -brand-name-firefox-browser } συλλέγει ελάχιστα δεδομένα· δεν χρειαζόμαστε καν το email σας για λήψη. Σε αντίθεση με άλλα προγράμματα περιήγησης, δεν έχουμε κανένα οικονομικό συμφέρον από την παρακολούθηση των κινήσεών σας στον ιστό.
@@ -128,6 +131,10 @@ firefox-desktop-download-from-security-to = Υπάρχει πάντα μια <a 
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = Το { -brand-name-firefox } δημιουργήθηκε από τη <a { $attrs }>{ -brand-name-mozilla }</a> ως μια ταχύτερη, πιο ιδιωτική εναλλακτική λύση για το { -brand-name-ie }, και πλέον για το { -brand-name-chrome }. Σήμερα, η εταιρεία μας και η κοινότητα των εθελοντών μας συνεχίζουν να θέτουν το απόρρητό σας πάνω απ' όλα.
 # Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = Καθώς το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας για ιδιωτικότητα. Γιατί αυτό ήταν πάντοτε το μέλημά μας. Μάθετε περισσότερα σχετικά με τις πρακτικές μας όσον αφορά τα δεδομένα στη <a { $attrs }>Σημείωση απορρήτου</a> μας.
+# Obsolete string (expires: 2025-04-17)
+# Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Όσο το διαδίκτυο αναπτύσσεται και αλλάζει, το { -brand-name-firefox } συνεχίζει να εστιάζει στο δικαίωμά σας στο απόρρητο, όπως αναφέρει η <a { $attrs }>Υπόσχεση προσωπικών δεδομένων</a>: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά. Τα δεδομένα και η διαδικτυακή σας ζωή προστατεύονται με το { -brand-name-firefox }.
 # Variables:
@@ -144,7 +151,7 @@ firefox-desktop-download-firefox-automatically = Το { -brand-name-firefox } <a
 firefox-desktop-download-questions = Έχετε απορίες; Η <a { $attrs }>Υποστήριξη { -brand-name-mozilla }</a> είναι εδώ για σας.
 firefox-desktop-download-watch-for-hackers-with-v3 = Προφυλαχτείτε από τους hacker με το { -brand-name-mozilla-monitor }, προστατέψτε τη διεύθυνση email σας με το { -brand-name-firefox-relay } και πολλά άλλα.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = Σχεδόν τελειώσατε!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
@@ -176,7 +183,7 @@ firefox-new-firefox-is-more-than-a-browser = Το { -brand-name-firefox } είν
 firefox-desktop-download-interrupted = Η λήψη σας διακόπηκε. Αλλά δεν έχουν χαθεί όλα.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-linux
-firefox-desktop-download-please-follow = Παρακαλούμε ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
+firefox-desktop-download-please-follow = Ακολουθήστε <a href="{ $url }">αυτές τις οδηγίες</a> για να εγκαταστήσετε το { -brand-name-firefox }.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-desktop-download-your-system-may-not = Το σύστημά σας ενδέχεται να μην πληροί τις απαιτήσεις του { -brand-name-firefox }, αλλά μπορείτε να δοκιμάσετε κάποια από <a href="{ $url }">αυτές τις εκδόσεις</a>.

@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.allizom.org/firefox/new/
+### URL: https://www-dev.springfield.moz.works/new/
 
 # meta title, this shows as the link in search results
 # the em dash is used in English to show a change of thought and
@@ -20,11 +20,14 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = Eiporukuaa rojaporamovéva { -brand-name-firefox }. <a { $update_url }>Embohekopyahu osẽramovévape</a>
 firefox-desktop-download-get-the-browser = Ereko pe kundahára omo’ã añetéva pe ehayhuvéva
-# shady is slang which suggests something is untrustworthy
+firefox-desktop-download-fast-reliable-private = Ipya’e, jeroviaha ha hekoñemi eikundaha hag̃ua ñandutípe.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-no-shady = Ndaipóri temiñemi porureko ivaikuaáva térã okẽ atukupegua ñemurãme g̃uarã. Ha’e kundahára ipya’e ha hekopotĩva.
 firefox-desktop-download-download-options = Ñemboguejy poravorã ha ambuekuéra ñe’ẽ
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } ñepytyvõ
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
+# Obsolete string (expires: 2025-04-17)
 firefox-desktop-download-do-what-you-do = Ejapo ejapóva ñandutípe.<br> { -brand-name-firefox-browser }<strong> noma’ẽi</strong> nderehe.
 firefox-desktop-download-how-firefox-compares = Mba’éicha emoñondivekuaa { -brand-name-firefox } ambue kundahára ndive
 firefox-desktop-download-get-all-the-speed = Embopya’eve ha tembiporu erekóta oike’ỹ rehe nde rekomíme. { -brand-name-firefox-browser } rombyaty sa’imi mba’ekuaarã nde rehegua ni ndorojeruréi ne ñanduti veve kundaharape romboguejy hag̃ua. Kóva oiko, ojuavýva ambue kundaháragui, ndoroguekóigui mba’érepa rohapykuehóta ñandutípe.
@@ -127,6 +130,7 @@ firefox-desktop-download-from-security-to = Ne rekorosã guive marandu ha ñembo
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } omoheñói <a { $attrs }>{ -brand-name-mozilla }</a> peteĩ kundahára ipya’e ha hekoñemíva { -brand-name-ie } rovake, ha ko’ág̃a { -brand-name-chrome }. Ko ára rupi, ore pytyvõhára rekoha ha mba’apohaguasu rembiecha omoakãrapu’ãva ha omomba’éva ne rekoñemi opamba’e ári.
+# Obsolete string (expires: 2025-04-17)
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/firefox/privacy/
 firefox-desktop-download-as-the-internet = Ñanduti okakuaave ha iñambuévo, { -brand-name-firefox } oma’ẽ tapia nde rekoñemi deréchore; rombohéra <a { $attrs }>Mba’ekuaarãtee ñe’ẽme’ẽ</a>: Ombyaty’ive. Oreko tekorosãme. Mba’ekañy’ỹre. Ne mba’ekuaarã, ne rembiapo ñandutípe, nde rekove eikundahávo emo’ãmba { -brand-name-firefox } ndive.
@@ -144,7 +148,7 @@ firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ijehegu
 firefox-desktop-download-questions = ¿Porandu? Pe <a { $attrs }>{ -brand-name-mozilla } pytyvõha</a> ne mo’ã meme.
 firefox-desktop-download-watch-for-hackers-with-v3 = Ejesareko mba’evai’apoháre { -brand-name-mozilla-monitor } ndive, emo’ã ne ñanduti veve { -brand-name-firefox-relay } ndive ha hetave.
 
-## URL: https://www-dev.allizom.org/firefox/download/thanks/
+## URL: https://www-dev.springfield.moz.works/download/thanks/
 
 firefox-desktop-download-almost-there = ¡Oĩmbátama!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
