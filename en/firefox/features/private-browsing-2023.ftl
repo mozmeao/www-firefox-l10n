@@ -2,15 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-### URL: https://www-dev.allizom.org/firefox/features/private-browsing
+### URL: https://www-dev.springfield.moz.works/features/private-browsing/
 
 features-private-browsing-private-browsing-mode = Private browsing mode
 
 # HTML page title
 features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } private browsing mode
-
-# HTML page description
-features-private-browsing-firefox-protects = { -brand-name-firefox } protects your online privacy and blocks trackers that follow you around the web.
 
 features-private-browsing-if-you-share-a-computer = If you share a computer with other people or if you want to limit how much data websites can collect about you, you can use private browsing mode in { -brand-name-firefox }. Private browsing erases the digital tracks you leave behind when you browse online — think of them like footprints through the woods.
 features-private-browsing-what-does-private-browsing-do = What does private browsing do?
