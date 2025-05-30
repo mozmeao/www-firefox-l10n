@@ -26,9 +26,9 @@ firefox-desktop-download-no-shady = Ягон сиёсати махфияти с�
 firefox-desktop-download-download-options = Имконоти боргирӣ ва забонҳои дигар
 firefox-desktop-download-browser-support = Дастгирии «{ -brand-name-firefox-browser }»
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
-firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» муҳофизати шуморо<strong>таъмин мекунад</strong>.
+firefox-desktop-download-do-what-you-do-v2 = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } муҳофизати шуморо <strong>таъмин мекунад</strong>.
 # Obsolete string
-firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> Браузери «{ -brand-name-firefox-browser }» шуморо назорат <strong>намекунад</strong>.
+firefox-desktop-download-do-what-you-do = Аз фаъолияти дӯстдошта дар Интернет ҳаловат баред.<br> { -brand-name-firefox-browser } шуморо назорат <strong>намекунад</strong>.
 firefox-desktop-download-we-block-the-ad = Мо васоити пайгирии рекламавиро манъ мекунем. Шумо аз Интернети тезтар истифода мебаред.
 firefox-desktop-download-ads-are-distracting = Маводҳои рекламавӣ халал мерасонанд ва кушоиши саҳифаҳои сомонаҳоро суст мекунанд, ҳангоме ки васоити пайгирии рекламавӣ ҳар як ҳаракати шуморо дар онлайн назорат мекунанд. Браузери «{ -brand-name-firefox-browser }» аксари васоити пайгириро ба таври худкор манъ мекунад, бинобар ин ягон кофтуков дар танзимоти амнияти шумо лозим нест.
 firefox-desktop-download-see-your-report = Гузоришро дар бораи муҳофизати худ аз назар гузаронед
@@ -62,7 +62,7 @@ firefox-desktop-download-curated-content-on = Муҳтаворо дар вара
 firefox-desktop-download-share-links = Пайвандҳоро мубодила намоед
 firefox-desktop-download-protect-your-privacy = Махфияти худро муҳофизат намоед
 firefox-desktop-download-third-party-cookie = Кукиҳои тарафҳои сеюм манъ карда мешаванд
-firefox-desktop-download-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешаванд
+firefox-desktop-download-fingerprinter-blocking = Хонандаи нақши ангуштон манъ карда мешавад
 firefox-desktop-download-cryptominer-blocking = Криптомайнерҳо манъ карда мешаванд
 firefox-desktop-download-private-browsing-mode = Реҷаи «Тамошобинии хусусӣ»
 firefox-desktop-download-individual-protections-report = Гузоришҳои муҳофизати инфиродӣ
@@ -133,7 +133,7 @@ firefox-desktop-download-firefox-automatically = Браузери «{ -brand-nam
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = Савол дошта бошед? <a { $attrs }>Хадамоти дастгирии «{ -brand-name-mozilla }» </a> ба саволҳои шумо ҷавоб медиҳад.
 
-## URL: https://www-dev.springfield.moz.works/download/thanks/
+## URL: https://www-dev.springfield.moz.works/thanks/
 
 firefox-desktop-download-almost-there = Қариб тайёр аст!
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language

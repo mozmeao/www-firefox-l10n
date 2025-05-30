@@ -3,11 +3,12 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/enterprise/
+### URL: https://www-dev.springfield.moz.works/browsers/enterprise/
 
 firefox-enterprise-get-firefox-for-your-enterprise-with = Гирифтани «{ -brand-name-firefox }» барои корхонаи худ бо истифода аз «{ -brand-name-esr }» ва нашрҳои мунтазами «Rapid Release»
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Браузери «{ -brand-name-firefox }»-ро дар корхонаи худ истифода баред
+firefox-enterprise-unmatched-data-protection = Муҳофизати беназир барои маълумоти шахсии шумо — аз пайдарпайи релизҳое, ки ба шумо беҳтар мувофиқат мекунанд
 firefox-enterprise-your-data-stays-your-business = Маълумоти шахсии шумо — кори шумост!
 firefox-enterprise-deploy-when-and-how-you-want = Бастаи насбро ба интиёри худ ва дар вақти дилхоҳ таҳия намоед
 firefox-enterprise-choose-your-release-cadence = Муҳлати силсилаи бароришҳои худро интихоб намоед

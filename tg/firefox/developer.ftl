@@ -3,7 +3,7 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/developer/
+### URL: https://www-dev.springfield.moz.works/channel/desktop/developer/
 
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
@@ -36,12 +36,16 @@ firefox-developer-responsive-design-mode = Реҷаи тарҳрезии мув�
 firefox-developer-test-sites-emulated = Дар браузери худ сомонаҳоро ба воситаи дастгоҳҳои маҷозӣ бисанҷед.
 firefox-developer-learn-more-about-responsive = Маълумоти бештар дар бораи «Реҷаи тарҳрезии мувофиқшаванда»
 firefox-developer-visual-editing = Таҳрири дидорӣ
+firefox-developer-fine-tuning-animations = Танзимоти дақиқи аниматсияи, баробарсозӣ ва фосиласозии матн.
 firefox-developer-learn-more-about-visual-editing = Маълумоти бештар дар бораи таҳрири дидорӣ
 firefox-developer-performance = Самаранокӣ
+firefox-developer-unblock-bottlenecks = Монеаҳоро боз кунед, равандҳоро муқаррар кунед, дороиҳоро беҳина созед.
 firefox-developer-learn-more-about-performance = Маълумоти бештар дар бораи абзорҳои самаранокӣ
 firefox-developer-memory = Ҳофиза
+firefox-developer-find-memory-leaks = Рахнаҳоеро дар ҳофиза ёбед ва барномаи худро боғайрат кунед.
 firefox-developer-learn-more-about-memory = Маълумоти бештар дар бораи абзорҳои ҳофиза
 firefox-developer-style-editor = Муҳаррири услубҳо
+firefox-developer-edit-and-manage = Ҳамаи ҷадвалҳои услубҳои «CSS»-ро дар браузери худ таҳрир ва идора кунед.
 firefox-developer-learn-more-about-style = Маълумоти бештар дар бораи муҳаррири услубҳо
 firefox-developer-new-tools = Абзорҳои нав
 firefox-developer-inactive-css = «CSS»-и ғайрифаъол
@@ -50,6 +54,7 @@ firefox-developer-master-css-grid = Идоракунии тарҳи «CSS»
 firefox-developer-built-for-developers = Барои барномасозон сохта шудааст
 firefox-developer-master-innovative-features = Хусусиятҳои инноватсионӣ
 firefox-developer-want-to-be-on-the-cutting-edge = Мехоҳед аз навигариҳо ва технологиҳои муосир истифода баред?
+firefox-developer-firefox-nightly-receives = Браузери «{ -brand-name-firefox-nightly }» навсозиҳои ҳаррӯзаро қабул мекунад ва ба шумо имкон медиҳад, то ки тавонед ба хусусиятҳо ва навигариҳо якчанд моҳ пеш аз он ки онҳо ба ҷараёни асосӣ ворид мешаванд, дастрасӣ пайдо кунед.
 firefox-developer-faster-innovation = Маълумоти тезкор
 firefox-developer-fonts-panel = Лавҳаи ҳарфҳо
 firefox-developer-firefox-developer-edition-sends = Браузери «{ -brand-name-firefox-developer-edition }» омори истифодабариро ба ташкилоти «{ -brand-name-mozilla }» ба таври худкор мефиристонад.

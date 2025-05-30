@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.springfield.moz.works/features/fast/
 
+features-fast-firefox-keeps-getting-faster = { -brand-name-firefox } yezga d arurad ugar
 features-fast-faster-every-day = D arurad yal ass

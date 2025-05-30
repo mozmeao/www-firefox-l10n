@@ -8,7 +8,6 @@ navigation-landmark-label = 主要
 
 ## Features
 
-navigation-features = 功能
 
 ## Resources
 

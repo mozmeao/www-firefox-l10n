@@ -44,7 +44,6 @@ footer-developer = 开发者
 footer-resources = 资源
 footer-compare = 比较
 footer-release-notes = 发行说明
-footer-support = 用户支持
 footer-addons = 附加组件
 footer-blog = 博客
 
