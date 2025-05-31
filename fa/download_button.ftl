@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-download-button-download-now = هم حالا دریافت کنید
+download-button-download-now = هم‌اینک دریافت کنید
 download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
@@ -20,6 +20,24 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> برای { -b
 download-button-firefox-privacy = حریم خصوصی { -brand-name-firefox }
 download-button-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 download-button-download = دریافت
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } دیگر روی { $os_version } و پایین‌تر <a href="{ $help_url }">پشتیبانی نمی‌شود</a>.
+download-button-please-download-esr = برای استفاده از { -brand-name-firefox } لطفا { -brand-name-firefox-esr } (نسخه دارای پشتیبانی افزوده) را دریافت کنید.
+download-firefox-esr = دریافت { -brand-name-firefox-esr }
+download-firefox-esr-32 = دریافت { -brand-name-firefox-esr } ۳۲بیت
+download-firefox-esr-64 = دریافت { -brand-name-firefox-esr } ۶۴بیت
+download-a-different-build = دریافت ساختی متفاوت
 
 ## Linux
 
+download-button-linux-32-v2 = دریافت برای گنو/لینوکس ۳۲بیت
+download-button-linux-64-v2 = دریافت برای گنو/لینوکس ۶۴بیت
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = آیا از دبیان، اوبونتو و یا دیگر توزیع‌های مبتنی بر دبیان استفاده می‌کنید؟<br>می‌توانید <a { $attrs }>مخزن APT</a>ما را به‌کار برید.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = از مایکروسافت بگیرید
