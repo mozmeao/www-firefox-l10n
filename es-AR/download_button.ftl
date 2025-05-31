@@ -7,7 +7,7 @@ download-button-firefox-beta = { -brand-name-firefox-beta }
 download-button-firefox-aurora = { -brand-name-firefox-aurora }
 download-button-firefox-developer-edition = <span>{ -brand-name-firefox }</span> { -brand-name-developer-edition }
 download-button-firefox-nightly = { -brand-name-firefox-nightly }
-download-button-systems-languages = Sistemas &amp; Idiomas
+download-button-systems-languages = Sistemas e idiomas
 download-button-google-play = Descargalo en { -brand-name-google-play }
 download-button-download-app-store = Descargalo en la { -brand-name-app-store }
 download-button-download-firefox = Descargá { -brand-name-firefox }
@@ -18,8 +18,8 @@ download-button-firefox-nightly-android = <span>{ -brand-name-firefox-nightly }<
 download-button-firefox-android = <span>{ -brand-name-firefox }</span> para { -brand-name-android }
 download-button-firefox-ios = <span>{ -brand-name-firefox }</span> para { -brand-name-ios }
 download-button-firefox-privacy = Privacidad de { -brand-name-firefox }
-download-button-firefox-privacy-notice = Aviso de privacidad de { -brand-name-firefox }
-download-button-download = Descarga
+download-button-firefox-privacy-notice = Nota de privacidad de { -brand-name-firefox }
+download-button-download = Descargar
 # Variables:
 #   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
 #   $help_url (url) - link to https://support.mozilla.org/

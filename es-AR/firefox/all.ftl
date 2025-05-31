@@ -8,7 +8,7 @@
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Descargá { -brand-name-firefox } en inglés (US) y en más de 90 otros idiomas
 # HTML page description, also used as the introductory text.
-firefox-all-everyone-deserves-access-v2 = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados de todo el mundo, hacemos que { -brand-name-firefox } esté disponible en más de 90 idiomas.
+firefox-all-everyone-deserves-access-v2 = Todos merecen acceso a Internet: tu idioma nunca debe ser una barrera. Por eso, con la ayuda de voluntarios dedicados en todo el mundo, hacemos que { -brand-name-firefox } esté disponible en más de 90 idiomas.
 firefox-all-choose-browser = Seleccioná un navegador para continuar
 firefox-all-choose-platform = Seleccioná una plataforma para continuar
 firefox-all-choose-language = Seleccioná un idioma para continuar
@@ -24,15 +24,15 @@ firefox-all-platform-v2 = 2. Plataforma:
 firefox-all-language-v2 = 3. Idioma:
 firefox-all-download = 4. Descarga:
 firefox-all-desktop = Escritorio
-firefox-all-mobile = Teléfono celular
+firefox-all-mobile = Dispositivos móviles
 firefox-all-recommended = (Recomendado)
 firefox-all-lang-multi = Múltiples idiomas
 firefox-all-plat-mobile = Android e iOS
 firefox-all-sorry-we-couldnt-find = Lo sentimos, no pudimos encontrar la descarga que estás buscando. Por favor volvé a intentar o seleccioná una descarga de la lista que está a continuación.
 firefox-all-the-pre-alpha-version = La versión pre-alfa para usuarios avanzados a los que les gusta buscar fallos y probar nuevas funciones a medida que se codifican.
-firefox-all-64-bit-installers = Instaladores de 64 -bit
-firefox-all-choose-a-64-bit-installer = Elegí un instalador de 64 -bit para computadoras con procesadores de 64 -bit, que les permite asignar más RAM a programas individuales, especialmente importante para juegos y otras aplicaciones exigentes.
-firefox-all-32-bit-installers = Instaladores de -32 bit
+firefox-all-64-bit-installers = Instaladores de 64 bits
+firefox-all-choose-a-64-bit-installer = Elegí un instalador de 64 bits para computadoras con procesadores de 64 bits, que les permite asignar más RAM a programas individuales, especialmente importante para juegos y otras aplicaciones exigentes.
+firefox-all-32-bit-installers = Instaladores de -32 bits
 firefox-all-microsoft-store-installers = Microsoft Store
 firefox-all-choose-a-microsoft-store-installer = Esta opción abrirá una página del producto de { -brand-name-firefox } en el portal web de Microsoft Store. Si estás ejecutando Windows 10 o Windows 11, tendrás la opción de abrir Microsoft Store desde esta página e instalar { -brand-name-firefox }. Si instalás desde Microsoft Store, desde ahí también se manejarán las actualizaciones a { -brand-name-firefox }. Hay pequeñas diferencias en el comportamiento y las capacidades de { -brand-name-firefox } cuando se instala desde Microsoft Store, pero para la mayoría de los usuarios estas diferencias no son notables.
 # Variables:
@@ -52,20 +52,20 @@ firefox-all-release-notes = Notas de la versión
 firefox-all-source-code = Código fuente
 firefox-all-need-help = ¿Necesitás ayuda?
 firefox-all-choose-which-firefox = Elegí qué { -brand-name-firefox-browser } vas a descargar en tu idioma
-firefox-all-firefox-privacy-notice = Aviso de privacidad de { -brand-name-firefox }
-firefox-all-learn-about-firefox = Aprende sobre los navegadores { -brand-name-firefox }
-firefox-all-the-standard-firefox = El navegador { -brand-name-firefox } estándar - rápido y privado. Si no estás seguro de qué { -brand-name-firefox } elegir, elige este.
+firefox-all-firefox-privacy-notice = Nota de privacidad de { -brand-name-firefox }
+firefox-all-learn-about-firefox = Conocé sobre los navegadores { -brand-name-firefox }
+firefox-all-the-standard-firefox = El navegador { -brand-name-firefox } estándar — rápido y privado. Si no estás seguro de cual { -brand-name-firefox } elegir, elegí este.
 firefox-all-get-a-sneak-peek-at = Echá un vistazo a las últimas funciones del navegador { -brand-name-firefox } antes de que sean lanzadas.
 firefox-all-test-your-sites-against = Probá tus sitios en comparación con las características del navegador { -brand-name-firefox } que se lanzarán próximamente con DevTools potentes y flexibles que están activadas de forma predeterminada.
 firefox-all-count-on-stability-and = Contá con la estabilidad y la facilidad de uso con este navegador { -brand-name-firefox } creado para empresas.
-firefox-all-windows-installers-for = Los instaladores de Windows para entornos corporativos que simplifican la configuración, despliegue y administración del { -brand-name-firefox-browser }.
+firefox-all-windows-installers-for = Instaladores de Windows para entornos corporativos que simplifican la configuración, despliegue y administración del { -brand-name-firefox-browser }.
 firefox-all-arm64-installers = Instaladores ARM64/AArch64
 firefox-all-arm64-installers-optimized-v2 = Instaladores ARM64/AArch64 optimizados para PCs con Windows y Linux.
 firefox-all-testflight = Registrate para probar { -brand-name-firefox } para iOS con TestFlight
 firefox-all-product-send-link = Enviar un enlace de descarga a tu teléfono.
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
-firefox-all-choose-a-32-bit-installer = Elegí un instalador de 32 -bit para computadoras con procesadores de 32 -bit o para computadoras más antiguas o menos potentes. <a href="{ $url }">Si no estás seguro </a> de elegir un instalador de 64 -bit o de 32 -bit, te recomendamos que elijas el de 32 -bit.
+firefox-all-choose-a-32-bit-installer = Elegí un instalador de 32 bits para computadoras con procesadores de 32 bits o para computadoras más antiguas o menos potentes. <a href="{ $url }">Si no estás seguro</a> de elegir un instalador de 64 bits o de 32 bits, te recomendamos que elijas el de 32 bits.
 firefox-all-msi-installers = Instaladores MSI
 firefox-all-select-your-preferred-language = Elegí tu idioma favorito
 firefox-all-learn-about-installers = Conocé sobre los instaladores
