@@ -5,4 +5,4 @@
 
 ### URL: https://www-dev.springfield.moz.works/more/browser-history/
 
-firefox-more-take-control-of = 您的浏览器，由您来掌控。
+firefox-more-take-control-of = Prende controlo de tu navigator.

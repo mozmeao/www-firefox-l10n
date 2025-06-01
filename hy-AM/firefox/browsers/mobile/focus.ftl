@@ -3,6 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 
-### URL: https://www-dev.springfield.moz.works/more/browser-history/
+### URL: https://www-dev.springfield.moz.works/browsers/mobile/focus/
 
-firefox-more-take-control-of = 您的浏览器，由您来掌控。
+mobile-focus-tracking-protection = Հետագծման պաշտպանություն

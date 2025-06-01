@@ -2,29 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-navigation-firefox-home = startowy bok { -brand-name-firefox }
 # An accessible label used to describe that the role of the element is the primary website navigation.
-navigation-landmark-label = Primarny
+navigation-landmark-label = Primêr
 
 ## Features
 
-navigation-features = Funkcije
+navigation-features = Funksjes
 
 ## Resources
 
-navigation-resources = Resurse
-navigation-close-resources-menu = Meni resursow zacyniś
+navigation-resources = Boarnen
 navigation-product = Produkt
 navigation-desktop = Desktop
-navigation-mobile = Mobilny telefon
-navigation-release-notes = Wersijowe informacije
-navigation-support = Pomoc
-navigation-add-ons = Dodanki
-navigation-learn = Wukniśo
+navigation-mobile = Mobyl
+navigation-release-notes = Utjefteopmerkingen
+navigation-support = Stipe
+navigation-add-ons = Add-ons
+navigation-learn = Leare
 navigation-blog = Blog
-navigation-compare = Pśirownaś
+navigation-compare = Fergelykje
 navigation-podcast = Podcast
 
 ## Download
 
-navigation-download = Ześěgnuś
+navigation-download = Downloade
