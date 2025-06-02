@@ -4,67 +4,67 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = Kiegészítő
+footer-landmark-label = Aanvullend
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Letöltés
-footer-download-auto = A { -brand-name-firefox } letöltése
+footer-download = Downloaden
+footer-download-auto = { -brand-name-firefox } downloaden
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
 footer-linux = Linux
-footer-custom-download = Egyéni letöltési lehetőségek
+footer-custom-download = Aangepaste downloadopties
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Legújabb összeállítások
+footer-latest = Nieuwste builds
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } cégeknek
+footer-business = { -brand-name-firefox } voor Ondernemingen
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
-footer-community = Közösség
-footer-contribute = Közreműködés
-footer-developer = Fejlesztő
+footer-community = Gemeenschap
+footer-contribute = Bijdragen
+footer-developer = Ontwikkelaar
 
 ## Links to resources
 
 # Section title
-footer-resources = Erőforrások
-footer-compare = Összehasonlítás
-footer-release-notes = Kiadási megjegyzések
-footer-support = Támogatás
-footer-addons = Kiegészítők
+footer-resources = Bronnen
+footer-compare = Vergelijken
+footer-release-notes = Uitgaveopmerkingen
+footer-support = Ondersteuning
+footer-addons = Add-ons
 footer-blog = Blog
 
 ## Links to social media
 
 # Section title
-footer-follow-us = Kövessen minket
+footer-follow-us = Volg ons
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Webhely adatvédelmi nyilatkozata
-footer-terms-of-use = Felhasználási feltételek
-footer-websites-cookie-policy = Sütiházirend
-footer-community-participation-guidelines = Közösségi részvételi irányelvek
-footer-logo-trademark-licensing = Logóvédjegy licencelése
+footer-websites-privacy-notice = Privacyverklaring voor website
+footer-terms-of-use = Gebruiksvoorwaarden
+footer-websites-cookie-policy = Cookiebeleid
+footer-community-participation-guidelines = Richtlijnen voor deelname aan de gemeenschap
+footer-logo-trademark-licensing = Licentie voor logo en handelsmerk
 
 ##
 
-footer-language = Nyelv
+footer-language = Taal
 footer-firefox = { -brand-name-firefox }
