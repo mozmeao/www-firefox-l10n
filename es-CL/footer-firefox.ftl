@@ -4,67 +4,66 @@
 
 # An accessible label used to describe that the role of the element is the
 # primary website navigation.
-footer-landmark-label = Supplementari
+footer-landmark-label = Suplementario
 
 ## Download links for stable versions of Firefox across multiple platforms.
 
 # Section title
-footer-download = Discargar
-footer-download-auto = Discargar { -brand-name-firefox }
+footer-download = Descargar
+footer-download-auto = Bajar { -brand-name-firefox }
 footer-windows = Windows
 footer-mac = Mac
 footer-ios = iOS
 footer-android = Android
-footer-linux = Linux
-footer-custom-download = Optiones de discargamento personalisate
+footer-linux = Bajar
+footer-custom-download = Opciones de descarga personalizadas
 
 ## Download links for dev versions of Firefox (beta, nightly).
 
 # Section title
-footer-latest = Versiones pro disveloppatores
+footer-latest = Últimas compilaciones
 footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 
 ## Download links for enterprise versions of Firefox.
 
 # Section title
-footer-business = { -brand-name-firefox } commercial
+footer-business = { -brand-name-firefox } para empresas
 footer-enterprise = { -brand-name-enterprise }
 
 ## Links to community groups.
 
 # Section title
-footer-community = Communitate
-footer-contribute = Contribuer
-footer-developer = Disveloppator
+footer-community = Comunidad
+footer-contribute = Contribuir
+footer-developer = Desarrollador
 
 ## Links to resources
 
 # Section title
-footer-resources = Ressources
+footer-resources = Recursos
 footer-compare = Comparar
-footer-release-notes = Notas de version
-footer-support = Supporto
-footer-addons = Additivos
+footer-release-notes = Notas de la versión
+footer-support = Soporte
+footer-addons = Complementos
 footer-blog = Blog
 
 ## Links to social media
 
 # Section title
-footer-follow-us = Seque nos
+footer-follow-us = Síguenos
 footer-instagram = Instagram
 footer-youtube = YouTube
 footer-tiktok = TikTok
 
 ## Legal links
 
-footer-websites-privacy-notice = Aviso de confidentialitate del sito web
-footer-terms-of-use = Terminos de uso
-footer-websites-cookie-policy = Directiva re cookies
-footer-community-participation-guidelines = Lineas guida de participation al communitate
-footer-logo-trademark-licensing = Licentia de uso del marca del logo
+footer-websites-privacy-notice = Aviso de privacidad del sitio web
+footer-terms-of-use = Términos de uso
+footer-websites-cookie-policy = Política de cookies
+footer-community-participation-guidelines = Pautas para la participación en la comunidad
 
 ##
 
-footer-language = Lingua
+footer-language = Idioma
 footer-firefox = { -brand-name-firefox }
