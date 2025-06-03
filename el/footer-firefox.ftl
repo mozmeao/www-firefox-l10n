@@ -64,7 +64,8 @@ footer-websites-cookie-policy = Πολιτική cookie
 footer-community-participation-guidelines = Κανόνες συμμετοχής κοινότητας
 footer-logo-trademark-licensing = Άδεια χρήσης εμπορικών σημάτων και λογότυπων
 
-##
+## Language Switcher
 
 footer-language = Γλώσσα
+footer-go = Μετάβαση
 footer-firefox = { -brand-name-firefox }

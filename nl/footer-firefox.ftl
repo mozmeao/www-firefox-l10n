@@ -64,7 +64,8 @@ footer-websites-cookie-policy = Cookiebeleid
 footer-community-participation-guidelines = Richtlijnen voor deelname aan de gemeenschap
 footer-logo-trademark-licensing = Licentie voor logo en handelsmerk
 
-##
+## Language Switcher
 
 footer-language = Taal
+footer-go = Gaan
 footer-firefox = { -brand-name-firefox }

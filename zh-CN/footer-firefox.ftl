@@ -64,7 +64,8 @@ footer-websites-cookie-policy = Cookie 政策
 footer-community-participation-guidelines = 社区参与准则
 footer-logo-trademark-licensing = 徽标商标许可
 
-##
+## Language Switcher
 
 footer-language = 语言
+footer-go = 转到
 footer-firefox = { -brand-name-firefox }

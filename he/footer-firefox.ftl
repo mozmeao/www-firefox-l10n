@@ -64,7 +64,8 @@ footer-websites-cookie-policy = מדיניות עוגיות
 footer-community-participation-guidelines = כללי השתתפות בקהילה
 footer-logo-trademark-licensing = רישוי סימן מסחרי של לוגו
 
-##
+## Language Switcher
 
 footer-language = שפה
+footer-go = מעבר
 footer-firefox = { -brand-name-firefox }
