@@ -7,6 +7,8 @@
 
 # HTML page title
 features-index-firefox-browser-features = { -brand-name-firefox } nettleserfunksjoner
+# HTML page description
+features-index-firefox-is-the-fast-lightweight = { -brand-name-firefox } er den raske, lette, personvernfokuserte nettleseren som fungerer på alle enhetene dine.
 features-index-firefox-keeps-getting-faster = { -brand-name-firefox } blir stadig raskere
 features-index-the-latest-browser-speed-benchmarks = De nyeste hastighetstestene for nettlesere viser at { -brand-name-firefox } er raskere enn noensinne.
 features-index-is-firefox-a-private-browser = Er { -brand-name-firefox } en privat nettleser?
@@ -33,7 +35,7 @@ features-index-fingerprint-blocking = Blokkering av fingeravtrykksporere
 features-index-ad-tracker-blocking = Blokkering av annonsesporere
 features-index-firefox-automatically-blocks = { -brand-name-firefox } blokkerer automatisk over 2000 annonsesporere fra å samle informasjon om hva du gjør på nettet.
 # "Ditch" is slang for discarding something unwanted. Alternative: "Get rid of sticky ads..."
-features-index-ditch-the-sticky-ads = Bli kvitt de klebrige annonsene som følger etter deg med de innebygde fingeravtrykksblokkeringene til { -brand-name-firefox }.
+features-index-ditch-the-sticky-ads = Bli kvitt de påtrengende annonsene som følger etter deg med de innebygde fingeravtrykksblokkeringene til { -brand-name-firefox }.
 features-index-translate-the-web = Oversett nettet
 features-index-translate-websites-to-your = Oversett nettsteder til ditt språk direkte i nettleseren din, { -brand-name-firefox } – uten å dele dataene dine med noen andre.
 features-index-picture-in-picture = Bilde-i-bilde
